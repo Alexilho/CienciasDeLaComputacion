@@ -1,0 +1,90 @@
+Turbo
+Antioquia
+9007212
+Cali
+Valle del Cauca
+8046578
+Palmira
+Valle del Cauca
+1350835
+Buga
+Valle del Cauca
+1980519
+Cartago
+Valle del Cauca
+5683618
+Tulua
+Valle del Cauca
+8895075
+Yumbo
+Valle del Cauca
+5982857
+Jamundi
+Valle del Cauca
+1559117
+Tunja
+Boyaca
+6811918
+Sogamoso
+Boyaca
+8446596
+Duitama
+Boyaca
+8651420
+Chiquinquira
+Boyaca
+4846300
+Villa de Leyva
+Boyaca
+2826664
+Paipa
+Boyaca
+7841316
+Raquira
+Boyaca
+5750287
+Bogota
+Cundinamarca
+3868317
+Cajica
+Cundinamarca
+8693767
+Facatativa
+Cundinamarca
+8276322
+Mosquera
+Cundinamarca
+5305992
+Madrid
+Cundinamarca
+9735173
+Chia
+Cundinamarca
+8352626
+Zipaquira
+Cundinamarca
+7803735
+Girardot
+Cundinamarca
+7052157
+Soacha
+Cundinamarca
+2549486
+Medellin
+Antioquia
+4528570
+Rionegro
+Antioquia
+544212
+Bello
+Antioquia
+7470222
+Envigado
+Antioquia
+261416
+Apartado
+Antioquia
+270416
+Guatape
+Antioquia
+2290570
