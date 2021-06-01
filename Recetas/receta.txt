@@ -1,0 +1,24 @@
+una lista de recetas de cocina para hacer una lista de recetas para la madre
+
+cada una de las recetas tiene un nombre "pollo a la naranja", "pizza napolitana"
+tiene una preparacion, tiene unos ingredientes y los ingredientes son una lista,
+cada elemento de la lista tiene el nombre del ingrediente, la cantidad y la medida.
+
+la idea es crear un main que nos permita tener un menú, ese es buscar receta determinada
+buscar la receta segun el nombre de la receta o buscar receta dado un ingrediente.
+
+dado el nombre de la receta me imprime la preparacion y los ingredientes,
+la segunda retorna cuales son los nombres de las que incluyen ese ingrediente(si buscamos por
+ingrediente)
+
+que operaciones: Crear estructura de nombre, preparacion, ingredientes "Struct receta" para ello 
+necesitamos una "Struct ingrediente" en la que tiene nombre(string), cantidad(float), medida(string)
+esta se añade como Lista<Ingredientes>
+
+en el main crean una lista de tipo receta que la llaman "menu" (Lista <receta> menú)
+
+Fumciones: Insertar receta, Eliminar receta, Modificar receta, buscar receta (buscar por nombre,
+buscar por ingrediente)
+
+buscar por nombre: muestra la prepáracion, ingredientes y estos tienen cantidad y medida.
+buscar por ingrediente: muestra la cantidad, la medida y el nombre de la receta.
